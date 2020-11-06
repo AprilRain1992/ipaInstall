@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="Content-Language" content="zh-CN" />
+    <style type="text/css">
+        body{text-align:center;padding-top:100}
+        div{width:778px;margin:0 auto;background:#fff;text-align:left;}
+    </style>
+</head>
+<body text-align=center>
 
-You can use the [editor on GitHub](https://github.com/AprilRain1992/ipaInstall/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AprilRain1992/ipaInstall/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1>ToDo</h1>
+<p>This is a very simple to-do list app. It's easy to create, complete and delete your to-dos. It makes your life more effective and efficient.</p>
+<p><a href="itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/gcmufps6y4evvlk/manifest.plist">Install ToDo v1.5.0</a></p>
+</body>
+</html>
