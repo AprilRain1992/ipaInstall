@@ -11,8 +11,9 @@
 	<script>
 		function hello(){
 			console.log("测试测试 你好")
+			var str = 'back2game';
+			parent.postMessage(str,'*');
 		}
-		hello();
 	</script>
 <body text-align=center>	
 <input type="button" onclick="hello()" value="say hello and Trigger Handler">
