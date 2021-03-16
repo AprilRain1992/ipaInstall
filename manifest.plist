@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/i61zm7aw8xbuk66/ZSYL-test.ipa</string>
+					<string>https://dl.dropboxusercontent.com/s/i61zm7aw8xbuk66/FXYL-test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hotGame1.zsyl</string>
+				<string>com.hotGame1.fxyl</string>
 				<key>bundle-version</key>
-				<string>1.7.0</string>
+				<string>1.9.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
